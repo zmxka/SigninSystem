@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/css/LeaveRequest.css=UTF-8
+encoding//WebContent/view/jsp/userInfo.jsp=UTF-8
+encoding//src/com/group/dao/LeaveEditDao.java=UTF-8
+encoding//src/com/group/servlet/AttendanceInquiryServlet.java=UTF-8
+encoding//src/com/group/servlet/LeaveEditServlet.java=UTF-8
